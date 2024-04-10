@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=&height=190&section=header&text=Welcome%20to%20Jahya%20log%20📫&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=190&section=header&text=Welcome%20to%20Jahya%20log%20📫&fontSize=60)
 <br>
 
 ### 안녕하세요! 저는 주니어 개발자를 꿈꾸는 자햐입니다.🌱
@@ -62,6 +62,6 @@ e-mail : wlqgkrry@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlqgkrry&layout=compact)](https://github.com/wlqgkrry/github-readme-stats)
 <br>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
 
 
