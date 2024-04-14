@@ -9,7 +9,7 @@
 <br>
 
 ### > 자기소개
-#### 😄 공유 및 소통의 필요성을 아는 유연한 개발자입니다.
+#### 😄 공유 및 소통의 필요성을 아는 유연한 사람입니다.
 사람들과의 스몰토크를 좋아하는 저는,
 협업을 진행할 때에도 적당한 소통의 필요성을 인지하고 일의 진척을 공유하려 노력합니다.
 
@@ -32,10 +32,10 @@
 <br>
 
 ### > 프로젝트
-- 센서를 통한 저류조 수심 측정 및 알림 시스템
-- 중고등생 시간표 생성 웹사이트
-- - 링크 : [리포지토리]([https://velog.io/@wlqgkrry/posts](https://github.com/wlqgkrry/2023-Waterfall-Timetable))
-- 시간표 생성 및 정렬 웹사이트
+- 센서를 통한 저류조 수심 측정 및 알림 시스템 제작
+- 중고등생 시간표 생성 웹사이트 제작
+- - 링크 : [리포지토리](https://github.com/wlqgkrry/2023-Waterfall-Timetable)
+- 시간표 생성 및 정렬 웹사이트 제작
 - - 링크 : [리포지토리]()
 <br>
 
@@ -52,7 +52,7 @@
 <br>
 
 ### > contact
-velog : [치즈오리의 로그](https://velog.io/@wlqgkrry/posts)<br/>
+velog : [산업과 예술의 만남 어딘가에 있는 자의 로그](https://velog.io/@wlqgkrry/posts)<br/>
 notion : <br/>
 e-mail : wlqgkrry@gmail.com
 <br>
